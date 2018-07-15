@@ -1,0 +1,57 @@
+   .block1 { 
+		margin: 0 auto; 
+		#text-align:center;
+		font-size: 1.125em;
+		font-family: "Helvetica Neue",Helvetica,Verdana,Tahoma,Arial,sans-serif;
+		width: auto; 
+		height: auto;
+		background: white;
+		margin: 0px auto;
+		border: 1px;
+		border-top:3px;
+		border-style: solid;
+		border-color: orange white white; 
+   }
+   .block2 { 
+		margin: 0 auto; 
+		#text-align:center;
+		font-size: 1.125em;
+		font-family: "Helvetica Neue",Helvetica,Verdana,Tahoma,Arial,sans-serif;
+		width: auto; 
+		height: auto;
+		background: white;
+		margin: 0px auto;
+		border: 1px;
+		border-top:3px;
+		border-style: solid;
+		border-color: orange white white; 
+   }
+   
+   input {
+	font-family: "Helvetica Neue",Helvetica,Verdana,Tahoma,Arial,sans-serif;
+	border: 1px;
+	border-color: white white white; 
+    border-style: solid; 
+	-webkit-transition: all  linear 0.5s;
+    -moz-transition: all  linear 0.5s;
+    -o-transition: all  linear 0.5s;
+    transition: all  linear 0.5s;
+	
+   }
+   input:focus {  
+	outline: none;
+	border: 1px;
+	border-color: white white orange;  
+    border-style: solid;  	
+   }
+   .ps {
+	font-family: "Helvetica Neue",Helvetica,Verdana,Tahoma,Arial,sans-serif;
+	border: 1px;
+	border-color: white white orange; 
+    border-style: solid;  
+   }
+   .f_in {
+	   text-align: center;
+	   padding: 10px auto; 
+	   margin: 10px auto;
+   }
